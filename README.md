@@ -23,7 +23,6 @@ education: B.Tech Computer Science
 specialization: Backend + Frontend + Mobile Development
 experience:
   - Enterprise Application Development
-  - Banking / Financial Domain Exposure
   - Full Stack Feature Development
 current_focus:
   - System Design
@@ -133,35 +132,4 @@ Real-time exchange rate mobile application.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
 
----
-
-## ⚙️ Snake Animation GitHub Action Setup
-
-Create this file in your repo:
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Yash-death
-          outputs: dist/snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
