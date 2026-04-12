@@ -80,10 +80,10 @@ Real-time exchange rate mobile application.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yash-death&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-death&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yash-death&theme=tokyonight&hide_border=true" />
@@ -96,6 +96,7 @@ Real-time exchange rate mobile application.
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-badoniya-a78382191/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://github.com/Yash-death" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+
 <a href="https://yash-portfolio-react.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
