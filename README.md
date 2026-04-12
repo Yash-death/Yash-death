@@ -67,6 +67,11 @@ Real-time exchange rate mobile application.
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-badoniya-a78382191/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://github.com/Yash-death" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<p>
+<a href="https://yash-portfolio-react.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  </p>
 </p>
 
 ---
